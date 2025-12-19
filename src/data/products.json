@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro Max",
+    "description": "Smartphone flagship Apple dengan chip A17 Pro, kamera 48MP, dan desain titanium. Layar Super Retina XDR 6.7 inci. Flagship dengan desain titanium ringan, performa tercepat, dan zoom kamera 5x.",
+    "price": 11599000,
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=400&h=400&fit=crop",
+    "category": "Smartphone",
+    "stock": 58
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M3",
+    "description": "Laptop tipis dan ringan dengan chip Apple M3, layar Liquid Retina 13.6 inci, baterai tahan hingga 18 jam. Super tipis dengan chip M3 yang powerful dan baterai seharian penuh.",
+    "price": 20348900,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop",
+    "category": "Laptop",
+    "stock": 27
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Smartphone Android terbaru dengan S Pen, kamera 200MP, dan AI integration untuk produktivitas maksimal. Premium dengan S Pen bawaan, kamera 200MP, dan fitur AI canggih.",
+    "price": 24198900,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&h=400&fit=crop",
+    "category": "Smartphone",
+    "stock": 35
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM5",
+    "description": "Headphone noise cancelling terbaik dengan prosesor V1, kualitas suara Hi-Res, dan baterai 30 jam. Noise cancelling terbaik di kelasnya dengan suara jernih Hi-Res.",
+    "price": 4352700,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+    "category": "Audio",
+    "stock": 56
+  },
+  {
+    "id": 5,
+    "name": "iPad Pro M2",
+    "description": "Tablet profesional dengan chip M2, layar Liquid Retina XDR 12.9 inci, dan support Apple Pencil 2. Tablet profesional untuk kreator dengan layar XDR dan performa maksimal.",
+    "price": 11988900,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=400&fit=crop",
+    "category": "Tablet",
+    "stock": 19
+  },
+  {
+    "id": 6,
+    "name": "Apple Watch Series 9",
+    "description": "Smartwatch dengan chip S9, layar Always-On Retina, ECG, dan berbagai fitur kesehatan terdepan. Smartwatch canggih dengan chip S9 dan fitur kesehatan terlengkap.",
+    "price": 4618900,
+    "image": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?w=400&h=400&fit=crop",
+    "category": "Wearable",
+    "stock": 73
+  },
+  {
+    "id": 7,
+    "name": "asus tuf A14",
+    "description": "Laptop kreator dengan prosesor Intel Core i9, GPU NVIDIA RTX, dan layar OLED 3.5K InfinityEdge. Laptop gaming tangguh dengan performa tinggi dan layar responsif.",
+    "price": 23747898,
+    "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=400&h=400&fit=crop",
+    "category": "Laptop",
+    "stock": 12
+  },
+  {
+    "id": 8,
+    "name": "Samsung QLED 4K TV 65\"",
+    "description": "TV 4K Quantum HDR dengan Quantum Processor 4K, Object Tracking Sound, dan Smart Hub lengkap. TV QLED 4K dengan warna hidup, HDR cemerlang, dan suara mengikuti objek.",
+    "price": 12499000,
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=400&fit=crop",
+    "category": "TV",
+    "stock": 1
+  },
+  {
+    "id": 9,
+    "name": "PlayStation 5",
+    "description": "Konsol game next-gen dengan SSD ultra-fast, ray tracing, dan controller DualSense dengan haptic feedback. Konsol game generasi terbaru dengan grafis memukau dan pengalaman gaming imersif.",
+    "price": 8599000,
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=400&fit=crop",
+    "category": "Gaming",
+    "stock": 24
+  },
+  {
+    "id": 10,
+    "name": "Logitech MX Master 3S",
+    "description": "Mouse wireless premium dengan sensor 8K DPI, scroll wheel MagSpeed, dan multi-device connectivity. Mouse ergonomis untuk produktivitas dengan navigasi presisi dan multi-perangkat.",
+    "price": 1599000,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400&h=400&fit=crop",
+    "category": "Aksesoris",
+    "stock": 118
+  },
+  {
+    "id": 11,
+    "name": "Canon EOS R6 Mark II",
+    "description": "Kamera mirrorless full-frame 24MP dengan AF canggih, 4K 60p video, dan stabilizer 8-stop. Kamera mirrorless profesional untuk fotografi dan videografi dengan stabilisasi luar biasa.",
+    "price": 34899000,
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=400&fit=crop",
+    "category": "Kamera",
+    "stock": 11
+  },
+  {
+    "id": 12,
+    "name": "Bose QuietComfort Ultra",
+    "description": "Headphone dengan Immersive Audio, noise cancelling adaptif, dan baterai 24 jam untuk kenyamanan maksimal. Headphone premium dengan audio imersif dan noise cancelling terdepan.",
+    "price": 6789000,
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=400&fit=crop",
+    "category": "Audio",
+    "stock": 41
+  },
+  {
+    "id": 13,
+    "name": "Tozo H100",
+    "description": "Headphone dengan Immersive Audio, noise cancelling adaptif, dan baterai 24 jam untuk kenyamanan maksimal. Headphone wireless dengan noise cancelling aktif dan harga terjangkau.",
+    "price": 359000,
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400&h=400&fit=crop",
+    "category": "Audio",
+    "stock": 18
+  },
+  {
+    "id": 14,
+    "name": "KZ Saga",
+    "description": "Headphone dengan Immersive Audio, noise cancelling adaptif, dan baterai 24 jam untuk kenyamanan maksimal. Earphone IEM kabel dengan kualitas audio tinggi untuk audiophile.",
+    "price": 179000,
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=400&h=400&fit=crop",
+    "category": "Audio",
+    "stock": 3
+  },
+  {
+    "id": 15,
+    "name": "Tablet Xiaomi pad 6",
+    "description": "Headphone dengan Immersive Audio, noise cancelling adaptif, dan baterai 24 jam untuk kenyamanan maksimal. Tablet android dengan performa smooth, layar tinggi, dan baterai tahan lama.",
+    "price": 3699000,
+    "image": "https://images.unsplash.com/photo-1546054451-aa6a6c2a8d3e?w=400&h=400&fit=crop",
+    "category": "Tablet",
+    "stock": 18
+  },
+  {
+    "id": 16,
+    "name": "Xbox Series X",
+    "description": "Konsol game paling powerful dengan dukungan 4K 120fps, ray tracing, dan akses ke Game Pass. Konsol gaming next-gen dengan performa tinggi dan library game ekstensif.",
+    "price": 8999000,
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=400&fit=crop",
+    "category": "Gaming",
+    "stock": 16
+  }
+]
